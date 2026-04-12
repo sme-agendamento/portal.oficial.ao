@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sme-agendamento.github.io/portal.oficial.ao/sitemap.xml
